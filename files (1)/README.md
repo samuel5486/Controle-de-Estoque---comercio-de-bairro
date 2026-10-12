@@ -26,11 +26,6 @@ Se estiver usando GitHub Pages, o link fica disponível automaticamente em:
 - **Vendas realizadas** — histórico com detalhe de cada venda ao clicar
 - **Painel, Relatório e Financeiro** — exclusivos do perfil Comerciante, com gráficos de vendas por categoria, tendência dos últimos 7 dias, produtos mais vendidos e lucro por mês
 
-## Limitações conhecidas (MVP)
-
-- Os dados são salvos no `localStorage` do navegador — ou seja, ficam **por aparelho**, não em um banco de dados compartilhado. Trocar de navegador ou limpar o cache apaga os dados.
-- Não há sincronização entre dispositivos.
-- Próximos passos sugeridos: migrar a persistência para um banco de dados real (ver seção de Persistência de Dados / Diagrama ER do documento do projeto).
 
 ## Tecnologias
 
