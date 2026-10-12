@@ -1,4 +1,4 @@
-# MerceariaPro — Caixa e Estoque
+# Caixa e Estoque
 
 MVP do Sistema de Controle de Estoque de Comércio de Bairro, desenvolvido como atividade prática do curso no IFPA.
 
